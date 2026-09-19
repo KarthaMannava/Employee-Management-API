@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 Employee Management System (CRUD)
 ## Streamlit • FastAPI • PostgreSQL • Docker
 
@@ -140,3 +141,6 @@ Cloud deployment (AWS/GCP)
 
 ## 📄 License
 Open-source, educational project.
+=======
+# Employee-Management-API
+>>>>>>> 8ad1eca0979213e1b1554facf95a0bc0edcb19f6
